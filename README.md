@@ -48,7 +48,7 @@ Copiez coller la commande.
 cd $HOME && curl -o oue-la-street.sh https://raw.githubusercontent.com/0xpatatedouce/farcaster-por-los-amigos-/main/oue-la-street.sh && bash oue-la-street.sh
 ```
 
-vous devriez avoir un résultat similaire, en suite vous devrez fournir vos RPCs Alchemy pour Ethereum et Optimism, ainsi que votre identifiant Farcaster.
+vous devriez avoir un résultat similaire, en suite vous devrez fournir vos RPCs Alchemy pour Ethereum et Optimism, ainsi que votre identifiant Farcaster, si vous n'avez pas ce resultat écrivez screen -x
 ![Capture d’écran 2024-07-18 224654](https://github.com/user-attachments/assets/e07d0e1c-e8e3-4bc8-bf75-88e1da8f6cb2)
 
 Bravo le node tourne dés a présent!
